@@ -24,7 +24,6 @@ html {
     color: #ffffff;
     position: absolute;
     top: 10px;
-    font-size: 4em;
 }
 
 .aside p {
@@ -119,6 +118,9 @@ html {
     .aside p {
         margin-bottom: 100%;
         margin-top: 44%;
+    }
+    .image_info h1 {
+        font-size: 4em;
     }
 }
 
